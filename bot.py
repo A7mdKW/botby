@@ -1,6 +1,6 @@
 ##REPLACE THESE VALUES
 bot_key="PlAcEhOlDeR"
-default_role="⭐️"
+default_role="✨- مميز ↫"
 ##--------------------
 import discord
 import asyncio
